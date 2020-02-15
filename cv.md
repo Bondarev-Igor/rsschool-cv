@@ -1,13 +1,20 @@
-# Bondarev Igor #
+## Hello, my name is Bondarev Igor. ##
+I'm 36 years old and I'm a beginning front-end developer.
 
-# Contact info #
+You can contact me by phone +375297720066 or write me a letter tosca@tut.by.
 
- - mobile: +375297720066(Telegram, Viber)
 
- - e-mail: tosca@tut.by
-# Information ....
-   #
+I want to study a new, interesting and modern profession.
+Work and create in a team. Find out what I am standing .
+
+
 I just started my studies. Now I know only basic HTML and CSS.
-  
-I have little experience yet.
 
+
+I have little experience yet.
+ My progress you can see on [GitHub](https://github.com/Bondarev-Igor).
+
+Now I'm studying at rsscool.
+I have completed the HTML5 Academy online courses. Read books on HTML and CSS.
+
+Now my level of English is beginner, but I learn English every day.
