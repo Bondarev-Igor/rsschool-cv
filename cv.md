@@ -1,5 +1,5 @@
 ## Hello, my name is Bondarev Igor. ##
-I'm 36 years old and I'm a beginning front-end developer.
+I'm a beginning front-end developer.
 
 You can contact me by phone +375297720066 or write me a letter <tosca@tut.by>.
 
